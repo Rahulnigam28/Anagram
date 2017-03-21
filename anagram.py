@@ -53,4 +53,4 @@ for files in range(0 , t):
         print("Total Number of Words    : %d "  %len(x))
         print ("Numer of Unique Anagrams : %d " %len(anagram))
         print("Length of the Longest Anagram: %s \n" %max(anagram.values()))                                                                                                                                                                                                      
-                                                                                                                                                                                           1,1           All
+                                                                                                                                                                                       
